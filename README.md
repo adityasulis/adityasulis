@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working as IT Support 
+- 🌱 I’m currently learning codeigniter
 <!--
 **adityasulis/adityasulis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
